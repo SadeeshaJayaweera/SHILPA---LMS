@@ -1,0 +1,102 @@
+body{
+    background-color: #ccc;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+  }
+  
+  thead {
+    background-color: #a98e8e;
+  }
+  
+  thead th {
+    padding: 10px;
+    font-weight: bold;
+    border: 1px solid #b88f8f;
+  }
+  
+  tbody td {
+    padding: 10px;
+    border: 1px solid #6b5050;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Button hover effect */
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Optional: Centering the content of cells */
+  td, th {
+    text-align: center;
+  }
+.admin-table-container{
+    display: flex;
+   
+  justify-content: center;
+  
+  
+  margin-top: 10px;
+
+}
+
+  .admin-table{
+    width: 85%;
+    
+  }
+
+  .admin-button{
+    margin-top: 50px;
+    margin-left: 125px;
+  }
+
+  .admin-footer{
+    color: #205154;
+    text-align: center;
+    padding: 50px;
+  }
+
+  .admin-header{
+    color: #205154;
+    font-family: 'Inter', sans-serif;
+font-size: 2.4225rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal; 
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .adi{
+    width: 80px;
+    height: 50px;
+    
+  }
+
+  .up{
+    text-align: center;
+    margin-top: 60px;
+   margin-bottom: -30px;
+   font-size: 2rem;
+   font-weight: 600;
+  }

@@ -1,0 +1,26 @@
+.head-of-course{
+  display: flex;
+  width: 100%;
+  height: 300px;
+  background-color: aqua;
+}
+
+.container1 {
+  width: 80%;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
+
+p {
+  line-height: 1.6;
+}
+.title{
+  font-size: 2rem;
+}
+.head-details{
+  padding-left: 50px;
+  margin-top: 40px;
+}
