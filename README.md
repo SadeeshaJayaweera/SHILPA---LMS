@@ -27,7 +27,7 @@ We're excited to invite you to join us in refining and elevating the Shilpa LMS!
 At Shilpa LMS, our mission is clear: empower individuals with the knowledge and skills to conquer the dynamic realm of Information Technology. We are driven by the belief that everyone deserves equal access to quality education. By offering our platform free of charge, we aim to foster innovation, inclusivity, and transformative growth within the IT community.
 
 **Experience Shilpa LMS:**
-Experience the future of IT education by exploring our repository, enrolling in courses, and participating in our open-source community. Visit our website at [www.shilpalms.com](http://www.shilpalms.com) to dive into the world of Shilpa LMS.
+Experience the future of IT education by exploring our repository, enrolling in courses, and participating in our open-source community. Visit our website at [http://shilpa.free.nf/) to dive into the world of Shilpa LMS.
 
 **Connect with Us:**
 Have questions, ideas, or feedback? Reach out to us at contact@shilpalms.com or start a discussion right here on GitHub.
