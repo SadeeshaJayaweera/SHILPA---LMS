@@ -1,4 +1,5 @@
-**Project Name:** Shilpa LMS: Empowering IT Education
+<b>**Project Name:** Shilpa LMS: Empowering IT Education</b>
+
 <img src ="Shilpa Home. Page.png">
 **Description:**
 Welcome to the Shilpa Learning Management System (LMS) GitHub repository! 🌟 As a team of enthusiastic first-year web application development students, we are thrilled to present our brainchild: an innovative platform designed to revolutionize IT education. Through the skillful fusion of modern technologies and a passion for knowledge-sharing, we proudly introduce the Shilpa LMS.
